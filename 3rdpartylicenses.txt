@@ -515,15 +515,6 @@ Apache-2.0
 @angular/http
 MIT
 
-angularfire2/storage
-MIT
-
-@firebase/storage
-Apache-2.0
-
-@ngx-progressbar/core
-MIT
-
 angularfire2/firestore
 MIT
 
@@ -532,6 +523,15 @@ Apache-2.0
 
 @firebase/logger
 Apache-2.0
+
+angularfire2/storage
+MIT
+
+@firebase/storage
+Apache-2.0
+
+@ngx-progressbar/core
+MIT
 
 @angular/router
 MIT
